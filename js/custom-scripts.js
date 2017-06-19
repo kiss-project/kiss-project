@@ -278,7 +278,7 @@
     // Images Screenshot Gallery
     var swiper = new Swiper('.testimonials-1 .swiper-container', {
       slidesPerView: 1,
-      autoplay: 3000,
+      autoplay: 5000,
       loop: true
     });
 
